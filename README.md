@@ -2,6 +2,13 @@
 
 **Cours :** Architecture Microservices : Conception, Déploiement et Orchestration
 
+<img width="959" height="284" alt="image" src="https://github.com/user-attachments/assets/04680dbb-f918-419b-beb2-fd9b61da39ec" />
+<img width="958" height="291" alt="image" src="https://github.com/user-attachments/assets/9190963d-f308-4893-9c70-73cca3800517" />
+<img width="956" height="364" alt="image" src="https://github.com/user-attachments/assets/f11febb9-d791-4eb1-a569-4a61077ea002" />
+<img width="959" height="290" alt="image" src="https://github.com/user-attachments/assets/50b2369e-85f5-4de5-b19f-3d2bfc79c689" />
+<img width="959" height="476" alt="image" src="https://github.com/user-attachments/assets/01dca445-87fc-40cc-9c1c-d0cd72397472" />
+
+
 ## Ce que ce TP permet de vérifier
 
 - Des emprunts concurrents arrivent sur 3 instances (8081/8083/8084).
